@@ -11,3 +11,4 @@ No current product capabilities are asserted here. Confirm availability, ownersh
 - [2026-07-25 notes](2026-07-25-index.md)
 - [2026-07-28 notes](2026-07-28-index.md)
 - [2026-07-29 notes](2026-07-29-index.md)
+- [2026-07-30 notes](2026-07-30-index.md)
